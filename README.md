@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<p>
+<!-- https://github.com/tandpfun/skill-icons -->
+<img align="center" src="https://skillicons.dev/icons?i=python,golang,c,mysql,vue,latex&theme=dark" />
+</p>
+
 <!--
 **TrisenYu/TrisenYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
